@@ -1,0 +1,85 @@
+Intro - 
+My Name - Rajesh Kumar
+2014 - As Programmer
+=======================
+www.RajeshKumar.xyz
+=======================
+Python Intermediate
+=======================
+6 Hours - 3.5 Hours - Discussion + Demo by Me
+          1 Hour - LUNCH
+          1.5 Hours - Lab
+-------------------------
+
+=========================
+First 2 Hour  - 8:00 PM IST - 10:00 PM IST - Discussion and Demo by Rajesh Kumar
+Next one hour - Lab - 0:00 PM IST - 11:00 PM IST - LAB and On Lab Support by Rajesh Kumar
+11:00 PM IST - 11.45 PM IST - LUNCH BREAK
+11.45 PM IST - 01:30 AM IST - Discussion and Demo by Rajesh Kumar
+01:30 AM IST - 2:00 PM IST - - LAB and On Lab Support by Rajesh Kumar
+==========================
+Demo - Laptop - Mac
+Lab - Windows - Mac - Linux
+---------------------------
+How to learn Programm Lang?
+================================
+Big Problems - Multiples things....
+             - 10 things.
+School Managment 
+            - students
+            - teachers
+            - classeses
+
+ - Each class - Convert into multiple domain/class
+                - Actions (CRUD) AKA METHOD AKA FUNCTION
+                    - ADD Stduent
+                        Conditioning
+                            Looping
+                            OPERATORS & DATATYPES
+                        Looping
+                            Conditioning
+                    - Edit student
+                    - Read student
+                    - Update Student
+                    - Delete Student
+                - ATTRIBUTES AKA PROPERTIES
+                        Common
+                        Specific
+=========================
+class   
+    function
+        based on confition|looping|operarots|datatypes
+====================
+class - 
+    When you call a class - Instantiate a class AKA OBJECT
+
+MEN ----- 200 MEN -- 200 TIMES 
+==========================================================
+Evolution Of porgramming
+-----
+Compiled Lang - JAVA - C + C++ DOTNET
+Iterpreted Lang - PHP - PERL - PYTHON
+Declartive - XML - JSON - YAML - 
+
+==========================================================
+How to install python3?
+Download and Install Python 3.8 using https://www.python.org/downloads/
+
+Mac - /usr/local/bin/python3
+    MG -> PKG -> CLICK - FOLLOW -----
+Windows - 
+    EXE --> Installer
+Linux - apt tum tar
+==========================
+How to install pip3?
+$ curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
+$ python3 get-pip.py --user
+
+IDE - Visual Studio Code
+https://code.visualstudio.com/
+
+
+hello-world.py
+
+
+
