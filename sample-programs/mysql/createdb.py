@@ -13,7 +13,7 @@ try:
 
     if connection.is_connected():
         my_database = connection.cursor()
-        my_database.execute("CREATE DATABASE devopsschool")
+        my_database.execute("CREATE DATABASE devopsschool1")
 
 except Error as e:
     print("Error while connecting to MySQL", e)

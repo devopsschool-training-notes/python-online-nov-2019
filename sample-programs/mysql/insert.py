@@ -8,7 +8,7 @@ from mysql.connector import errorcode
 def insertVariblesIntoTable(id, name, price, purchase_date):
     try:
         connection = mysql.connector.connect(host='localhost',
-                                         database='devopsschool',
+                                         database='devopsschool1',
                                          user='root',
                                          password='MyNewPass')
 

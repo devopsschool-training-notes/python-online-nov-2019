@@ -7,7 +7,7 @@ from mysql.connector import errorcode
 
 try:
     connection = mysql.connector.connect(host='localhost',
-                                         database='devopsschool',
+                                         database='devopsschool1',
                                          user='root',
                                          password='MyNewPass')
 

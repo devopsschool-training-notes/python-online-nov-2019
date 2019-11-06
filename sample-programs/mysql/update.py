@@ -7,7 +7,7 @@ from mysql.connector import errorcode
 
 try:
     connection = mysql.connector.connect(host='localhost',
-                                         database='devopsschool',
+                                         database='devopsschool1',
                                          user='root',
                                          password='MyNewPass')
     cursor = connection.cursor()
@@ -19,7 +19,7 @@ try:
     print(record)
 
     # Update single record now
-    sql_update_query = """Update Laptop set Price = 7000 where id = 2"""
+    sql_update_query = """Update Laptop set Name = 'Lenvo' where id = 3"""
     cursor.execute(sql_update_query)
     connection.commit()
     print("Record Updated successfully ")
